@@ -1,0 +1,7 @@
+Modelo,Categoria_Prompt,TTFT_ms,Tiempo_Total_s,Tokens_Generados,TPS
+qwen2.5:1.5b-instruct-q4_K_M,Corto (Definición),492.03,22.36,431,19.97
+qwen2.5:1.5b-instruct-q4_K_M,Medio (Razonamiento),1996.67,50.92,801,16.42
+qwen2.5:1.5b-instruct-q4_K_M,Largo (Generación de Código),1494.55,31.8,569,18.82
+qwen2.5:1.5b-instruct-q8_0,Corto (Definición),758.79,24.35,333,14.17
+qwen2.5:1.5b-instruct-q8_0,Medio (Razonamiento),1858.99,41.21,497,12.67
+qwen2.5:1.5b-instruct-q8_0,Largo (Generación de Código),1671.34,68.32,794,11.95
